@@ -3,6 +3,7 @@
   padding: 0;
   font-family: "Open Sans", sans-serif;
   text-decoration: none;
+  scroll-behavior: smooth;
 }
 
 ul {
